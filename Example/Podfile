@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RavingFansSDK_Example' do
+  pod 'RavingFansSDK', :path => '../'
+
+  target 'RavingFansSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "RavingFansSDK",
+  "version": "0.1.0",
+  "summary": "A short description of RavingFansSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ko0f/RavingFansSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ko0f": "tal@bouqt.com"
+  },
+  "source": {
+    "git": "https://github.com/ko0f/RavingFansSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RavingFansSDK/Classes/**/*"
+}

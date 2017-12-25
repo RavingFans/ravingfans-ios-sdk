@@ -1,0 +1,6 @@
+framework module RavingFansSDK {
+  umbrella header "RavingFansSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
