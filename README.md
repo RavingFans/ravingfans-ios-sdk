@@ -35,7 +35,7 @@ import RavingFansSDK // swift
 RavingFans.sessionStarted("yourAppKey") // swift
 ```
 ```objective
-[RavingFans sessionStarted:@"yourAppKey"]; // objc
+[RavingFans sessionStartedWithAppKey:@"yourAppKey"]; // objc
 ```
 
 * On `applicationWillResignActive:`, report that session has ended:
