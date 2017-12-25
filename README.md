@@ -27,7 +27,7 @@ pod 'RavingFansSDK'
 import RavingFansSDK // swift
 ```
 ```objective
-#import RavingFansSDK; // objc
+@import RavingFansSDK // objc
 ```
 
 * Upon `applicationDidBecomeActive:`, report that session has started:
