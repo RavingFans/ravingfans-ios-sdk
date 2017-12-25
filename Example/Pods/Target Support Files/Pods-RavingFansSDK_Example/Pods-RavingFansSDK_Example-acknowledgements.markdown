@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## RavingFansSDK
 
-Copyright (c) 2017 ko0f <tal@bouqt.com>
+Copyright (c) 2017 ko0f <6340033+ko0f@users.noreply.github.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

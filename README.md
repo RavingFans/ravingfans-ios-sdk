@@ -22,7 +22,7 @@ pod 'RavingFansSDK'
 
 ## Author
 
-ko0f, tal@bouqt.com
+ko0f, 6340033+ko0f@users.noreply.github.com
 
 ## License
 

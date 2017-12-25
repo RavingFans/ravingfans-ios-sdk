@@ -2,7 +2,6 @@
 //  RFAnalytics.swift
 //  v1.1
 //
-//  Created by Tal Hashai on 6/16/15.
 //  Copyright (c) 2015-2017 Bouqt Ltd. All rights reserved.
 //
 //  .------------------------------------------------------------------------------------------------------------
