@@ -2,7 +2,7 @@
 //  RFAnalytics.swift
 //  v1.1
 //
-//  Copyright (c) 2015-2017 Bouqt Ltd. All rights reserved.
+//  Copyright (c) 2015-2017 RavingFans Pty Ltd. All rights reserved.
 //
 //  .------------------------------------------------------------------------------------------------------------
 //  |                                        I N T E G R A T I O N
