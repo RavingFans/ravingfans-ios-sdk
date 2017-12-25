@@ -20,9 +20,34 @@ it, simply add the following line to your Podfile:
 pod 'RavingFansSDK'
 ```
 
-## Author
+## Integration
 
-ko0f, 6340033+ko0f@users.noreply.github.com
+Import RavingFans™ module to your `AppDelegate` class -
+
+```swift
+import RavingFansSDK`
+```
+```objective
+#import RavingFansSDK
+```
+
+Upon `applicationDidBecomeActive:`, report that session has started:
+```swift
+RavingFans.sessionStarted("yourAppKey")
+```
+```objective
+[RavingFans sessionStarted:@"yourAppKey"];
+```
+
+On `applicationWillResignActive:`, report that session has ended:
+```swift
+RavingFans.sessionEnded()
+```
+```objective
+[RavingFans sessionEnded];
+```
+
+That's it.
 
 ## License
 
