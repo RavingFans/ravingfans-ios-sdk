@@ -24,25 +24,31 @@ pod 'RavingFansSDK'
 
 Import RavingFans™ module to your `AppDelegate` class -
 
+Swift -
 ```swift
-import RavingFansSDK`
+import RavingFansSDK
 ```
+Objective-C -
 ```objective
 #import RavingFansSDK
 ```
 
 Upon `applicationDidBecomeActive:`, report that session has started:
+Swift -
 ```swift
 RavingFans.sessionStarted("yourAppKey")
 ```
+Objective-C -
 ```objective
 [RavingFans sessionStarted:@"yourAppKey"];
 ```
 
 On `applicationWillResignActive:`, report that session has ended:
+Swift -
 ```swift
 RavingFans.sessionEnded()
 ```
+Objective-C -
 ```objective
 [RavingFans sessionEnded];
 ```
