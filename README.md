@@ -23,6 +23,7 @@ pod 'RavingFansSDK'
 ## Changes
 
 * Adjusted to Swift 4.
+* Class name changed from `FTSAnalytics` to `RFAnalytics`.
 * Endpoint upgraded to HTTPS, it is no longer required to add an `NSAppTransportSecurity` exemption.
 * Code is now open source under MIT license, feel free to fork and PR.
 * Published to Cocoapods, integration is now easy.
