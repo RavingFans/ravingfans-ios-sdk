@@ -25,6 +25,7 @@
 
 import Foundation
 
+@objcMembers
 public class RavingFans: NSObject {
     
     private let kUserDefaultsRandomId = "FTS_RandomId"
