@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RavingFansSDK'
-  s.version          = '1.1.0'
+  s.version          = '1.2.0'
   s.summary          = 'SDK for working with RavingFans. See http://followtheseed.vc/ for details.'
 
 # This description is used to generate tags and improve search results.
