@@ -23,6 +23,7 @@ SDK for working with RavingFans.
 Register at http://followtheseed.vc, integrate this SDK to your project and let the data flow.
                        DESC
 
+  s.swift_versions   = ['5.0']
   s.homepage         = 'https://github.com/RavingFans/ravingfans-ios-sdk'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
